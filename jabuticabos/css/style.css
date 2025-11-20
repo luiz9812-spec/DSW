@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.principal {
+    background-color: #463f49;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: 0px 7px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: #C130FF;
+}
+
+.bread {
+    background-color: #A859C9;
+}
+
+.bread a {
+    color: white;
+}
+
+main {
+    height: 100%;
+}
+
+.side {
+    background-color: #B879E5;
+    min-height: 100%;
+}
+
+.side h2 {
+    margin: 15px 0px;
+}
+
+.side img {
+    margin: 0px 0px 20px 0px;
+}
+
+.side p {
+    padding: 0px 50px 30px 50px;
+    text-align: justify;
+}
+
+.artigo {
+    background-color: #DEA9F5;
+    min-height: 100%;
+}
+
+.artigo h1 {
+    margin: 15px 0px;
+}
+
+.album h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.disco {
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: #A859C9;
+    border-radius: 25px;
+}
+
+.disco img {
+    border-radius: 5px;
+}
+
+.disco a {
+    text-decoration: none;
+}
+
+.disco:hover {
+    border: 2px solid #463f49;
+}
+
+.disco h2 {
+    color: white;
+    margin: 5px 0px 25px 0px;
+}
+
+.disco p {
+    font-weight: bolder;
+    color: white;
+    margin: 50px 0px;
+}
+
+.capa {
+    margin: auto;
+}
+
+.capa p {
+    background-color: #B879E5;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.capa img {
+    width: 300px;
+}
+
+.musica h1 {
+    text-align: center;
+}
+
+.sobre {
+    margin-bottom: 10px;
+}
+
+.sobre h1 {
+    text-align: center;
+}
+
+.sobre p {
+    margin: 20px;
+}
+
+.sobre img {
+    width: 300px;
+}
+
+.tabela {
+    text-align: center;
+    width: 100%;
+}
+
+.rodape {
+    background-color: #47404A;
+}
+
+.rodape p, .rodape a {
+    color: white;
+    text-decoration: none;
+}
+
+.rodape a:hover {
+    color: #C130FF;
+}
